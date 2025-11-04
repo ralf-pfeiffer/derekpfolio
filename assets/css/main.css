@@ -2405,28 +2405,15 @@ body.is-touch .main {
 }
 
 #paintings {
-	/* I am allowing this overlay hack to stay to dim the background images
-		 so the focus is on more on the text which is being read. -Ralf 
-		background: url("images/overlay.png"), url("../../images/fulls/MOODYLIGHTING.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
-		*/
-	background: url("../../images/trees-bk.jpg");
-
 }
 
 #sketches {
-	background: url("images/overlay.png"), url("../../images/trees-bk.jpg");
 }
 
 #threed {
-	background: url("images/overlay.png"), url("../../images/trees-bk.jpg");
 }
 
 #media {
-	background: url("images/overlay.png"), url("../../images/trees-bk.jpg");
-}
 
 /* Contact */
 
